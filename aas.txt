@@ -3,7 +3,11 @@
 <body>
 <table border="1">
 <thead>
-
+<th>isim</th>
+<th>soyisim</th>
+<th>yaş</th>
+<tr>
+</tr>
 </thead>
 </table>
 </body>
